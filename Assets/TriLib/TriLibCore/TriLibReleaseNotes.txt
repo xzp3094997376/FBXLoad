@@ -1,0 +1,5 @@
+﻿2.0.13b
+Changelog:
+-Fixed material/texture issues.
+-Removed the LoadHumanoidAnimationFromFilePicker sample for refactoring.
+-Added StandaloneFileBrowser sources.
